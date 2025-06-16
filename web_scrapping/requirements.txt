@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+spacy
+nltk
+symspellpy
+flashtext
+wordcloud
+matplotlib
+
