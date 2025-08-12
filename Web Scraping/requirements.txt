@@ -7,4 +7,5 @@ symspellpy
 flashtext
 wordcloud
 matplotlib
+feedparser
 
